@@ -7,3 +7,5 @@
   - windows: CP210x Universal Windows Driver
   - macos: CP210x VCP Mac OSX Driver
 - [Arduino ESP](https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html) のページから Stable release の設定を読み込む
+
+ボードの種類は ESP32 Dev Module を選ぶ。
